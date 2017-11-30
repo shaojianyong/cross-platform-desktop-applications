@@ -10,10 +10,11 @@
     "osenv": "^0.1.4"
   },
   "scripts": {
-		"cuke": "NODE_ENV=test node_modules/.bin/cuke",
+    "cuke": "NODE_ENV=test node_modules/.bin/cuke",
     "test": "NODE_ENV=test node_modules/.bin/mocha",
     "pack": "build",
-    "dist": "build"
+    "dist": "build",
+    "start": "electron ."
   },
   "devDependencies": {
     "cucumber": "^2.0.0-rc.7",

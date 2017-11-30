@@ -1,6 +1,12 @@
 {
-  "name"    : "tray-app-electron",
-  "version" : "1.0.0",
-  "main"    : "main.js"
+  "name": "tray-app-electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.4.14",
+    "electron-builder": "^11.4.4"
+  }
 }
-

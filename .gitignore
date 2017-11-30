@@ -31,3 +31,27 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+chapter-01/hello-world-electron/package-lock.json
+chapter-02/lorikeet-electron/package-lock.json
+chapter-03/lorikeet-electron/package-lock.json
+chapter-04/lorikeet-electron/package-lock.json
+chapter-07/constrained-window-sizing-electron/package-lock.json
+chapter-07/dynamic-window-positioning-electron/package-lock.json
+chapter-07/fullscreen-app-electron/package-lock.json
+chapter-07/window-sizing-electron/package-lock.json
+chapter-08/tray-app-electron/package-lock.json
+chapter-09/cirrus-electron/package-lock.json
+chapter-09/mac-app-default-menu-electron/package-lock.json
+chapter-09/mac-app-menu-electron/package-lock.json
+chapter-09/windows-linux-menu-app-electron/package-lock.json
+chapter-10/detect-os-electron/package-lock.json
+chapter-10/iconic-electron/package-lock.json
+chapter-11/facebomb-electron/package-lock.json
+chapter-12/let-me-remember-electron/package-lock.json
+chapter-12/todomvc-react-electron/package-lock.json
+chapter-13/pearls-electron/package-lock.json
+chapter-14/snake-electron/package-lock.json
+chapter-15/watchy-electron/package-lock.json
+chapter-16/lorikeet-electron/package-lock.json
+chapter-17/lorikeet-electron/package-lock.json
+chapter-18/hello-world-electron/package-lock.json

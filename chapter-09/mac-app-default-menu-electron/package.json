@@ -4,5 +4,8 @@
   "main": "main.js",
   "dependencies": {
     "electron-default-menu": "^1.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
   }
 }

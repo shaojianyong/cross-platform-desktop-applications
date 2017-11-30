@@ -7,5 +7,8 @@
     "todomvc-app-css": "^2.0.0",
     "todomvc-common": "^1.0.1"
   },
-	"main":"main.js"
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
 }

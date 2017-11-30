@@ -6,7 +6,7 @@
   "main": "main.js",
   "build": {
     "iconUrl": " https://github.com/paulbjensen/lorikeet/raw/master/icon.ico",
-		"max": {
+    "max": {
       "title": "Hello World",
       "icon": "icon.icns",
       "background": "background.png",
@@ -29,7 +29,8 @@
   },
   "scripts": {
     "pack": "build",
-    "dist": "build"
+    "dist": "build",
+    "start": "electron ."
   },
   "dependencies": {},
   "devDependencies": {

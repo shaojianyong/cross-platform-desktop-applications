@@ -11,7 +11,8 @@
   },
   "scripts": {
     "pack": "build",
-    "dist": "build"
+    "dist": "build",
+    "start": "electron ."
   },
   "devDependencies": {
     "devtron": "^1.4.0",

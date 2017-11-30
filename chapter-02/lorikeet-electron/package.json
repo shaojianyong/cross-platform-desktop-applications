@@ -5,5 +5,13 @@
   "dependencies": {
     "async": "^2.1.4",
     "osenv": "^0.1.4"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@types/node": "~6.0.60",
+    "electron": "^1.7.9",
+    "typescript": "~2.4.2"
   }
 }
